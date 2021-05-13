@@ -1,0 +1,5 @@
+# pasta
+node_modules/
+
+# outros
+*.txt
