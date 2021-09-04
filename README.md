@@ -1,4 +1,4 @@
-## Lab de estudo.  
+### Lab de estudo
 
 Projeto organizador de favoritos.
 
